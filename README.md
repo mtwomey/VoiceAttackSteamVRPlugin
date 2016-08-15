@@ -12,3 +12,4 @@ When VoiceAttack restarts you should see the message "Plugin 'SteamVR' initializ
 
 You can now create a VoiceAttack action using this plugin:
 
+![screen shot 2016-08-14 at 9 26 33 pm](https://cloud.githubusercontent.com/assets/7715262/17654200/0ddc0736-6266-11e6-802f-c5116acfa2f9.png)
